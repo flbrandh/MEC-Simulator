@@ -15,3 +15,7 @@ Workshop on Edge Systems, analytics and Networking, 03/2019
 ***
 
 start the program with `python3 main.py`
+
+***
+
+**Check out the repository of the follow-up paper instead (https://github.com/flbrandh/MEC-Simulator-2-BigMEC). It contains a much more sophisticated version of the simulation.**
