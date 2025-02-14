@@ -1,5 +1,9 @@
 # MEC-Simulator
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14870534.svg)](https://doi.org/10.5281/zenodo.14870534)
+
 This is a simple simulator for distributed, learning service placement strategies for mobile edge computing (MEC)
 
 ***
